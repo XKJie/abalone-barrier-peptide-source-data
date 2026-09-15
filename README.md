@@ -1,3 +1,5 @@
+![Abalone peptide mining schematic](assets/abalone-peptide-mining-schematic.svg)
+
 # Abalone Barrier Peptide Source Data
 
 This repository contains the source data, scripts, and figure assets used for the script-traceable parts of the abalone barrier peptide study.
