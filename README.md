@@ -1,4 +1,4 @@
-![Abalone peptide mining schematic](assets/abalone-peptide-mining-schematic.svg)
+![Abalone peptide mining schematic](assets/abalone-peptide-mining-cover-v2.svg)
 
 # Abalone Barrier Peptide Source Data
 
